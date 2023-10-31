@@ -30,10 +30,9 @@ title = "Posts"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = 'Новый подход в области<br />персонализированной медицины'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+Автоматизированная система по оценке уровня эмоционального интеллекта, основанная на поведении пользователя в игровой среде.
 '''
 
 [[params.one.icon]]
